@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry>
+<veicolo>
+<targa>ab123cd</targa>
+<scadenzaAssicurazione>2019-10-31</scadenzaAssicurazione>
+<scadenzaBollo>2019-07-31</scadenzaBollo>
+<classeInquinamento>5</classeInquinamento>
+<ricercata>0</ricercata>
+</veicolo>
+</entry>
